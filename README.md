@@ -33,11 +33,11 @@ This project is a **BDD-style automation framework** built using **Cucumber**, *
 - Optional: Maven or Gradle for build automation  
 
 ## ✅ Features Tested
-###Login
+### Login
 -Validates user login with valid credentials.
 
-###Search Hotel
+### Search Hotel
 -Searches hotels by location, room type, dates, and number of guests.
 
-###Book Hotel
+### Book Hotel
 -Selects a hotel, fills in guest and payment information, and completes a booking.
